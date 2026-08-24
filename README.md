@@ -1,16 +1,17 @@
-## Hi there 👋
+Im Zinxqo, a developer based in Ireland
 
-<!--
-**zinxqo/zinxqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make anything that pops into my mind
 
-Here are some ideas to get you started:
+my main tech stack is Python, Html, Css, Javascript and bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do automation, web dev, game dev, and cyber sec
+
+- fun facts -
+
+have been programming since 13
+
+i started by learning python on my phone
+
+- current project -
+
+Feynman study website
