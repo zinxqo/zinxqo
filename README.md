@@ -8,7 +8,7 @@ I do automation, web dev, game dev, and cyber sec
 
 - fun facts 
 
-have been programming since 13
+have been programming for 2 years
 
 i started by learning python on my phone
 
