@@ -14,4 +14,4 @@ i started by learning python on my phone
 
 - current project
 
-Feynman study website
+kob 
